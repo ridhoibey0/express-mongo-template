@@ -25,7 +25,7 @@ app.get("/", (req, res) => {
           linkkedIn: "https://linkedin.com/in/ridhoazkiaa",
           github: "https:://github.com/ridhoibey0",
           email: "ridhoazkiaa@gmail.com",
-          website: "https://ridhoibey0.github.io",
+          website: "https://ridhoazkiaa.my.id",
         },
       },
     ],
